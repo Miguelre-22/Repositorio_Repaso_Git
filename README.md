@@ -77,3 +77,7 @@ Este texto no es una cita.
 
 Párrafo 1.
 Párrafo 2.
+
+## Comentarios Miguel Re 
+
+Hola, este es mi comentario.
