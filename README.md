@@ -77,3 +77,7 @@ Este texto no es una cita.
 
 Párrafo 1.
 Párrafo 2.
+
+## Comentario Miguel
+
+Este es mi comentario en la rama 2.
